@@ -3,7 +3,7 @@
 ### Entrega proyecto final Desafío Latam
 
 ## [Sitio web](http://186.64.118.50/~fev1klopez/)
-## [Repositorio](http://github)
+## [Repositorio](https://github.com/kimlouu/Proyecto_Final_DL/)
 ## [Video Explicativo](https://youtu.be/Bp2TD8uipGU)
 ## [Presentación](assets/docs/presentacion.pdf)
 
