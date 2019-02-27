@@ -1,35 +1,35 @@
 # Editorial América en Movimiento
-###Sitio web autoadministrable montado en wordpress
-###Entrega proyecto final Desafío Latam
+### Sitio web autoadministrable montado en wordpress
+### Entrega proyecto final Desafío Latam
 
-##[Sitio web](http://186.64.118.50/~fev1klopez/)
-##[Repositorio](http://github)
-##[Video Explicativo](https://youtu.be/Bp2TD8uipGU)
-##[Presentación](assets/docs/presentacion.pdf)
+## [Sitio web](http://186.64.118.50/~fev1klopez/)
+## [Repositorio](http://github)
+## [Video Explicativo](https://youtu.be/Bp2TD8uipGU)
+## [Presentación](assets/docs/presentacion.pdf)
 
-##Accesos para el despliegue
-###LOCALHOST
+## Accesos para el despliegue
+### LOCALHOST
 - BBDD: base_de_datos_eam
 
-###WORDPRESS LOCALHOST CONFIG
+### WORDPRESS LOCALHOST CONFIG
 - Título del sitio: Editorial América en Movimiento
 - User: klopezp
 - Pass: zYwU^L)9iTt$Qs!I)d
 
-###HOST
+### HOST
 - BBDD: fev1klop_base_de_datos_eam
 - User cpanel bbdd: fev1klop_klopezp
 - Pass: 1lThZj0w5?Hsimo?;-
 
-###HOST WORDPRESS ADMIN
+### HOST WORDPRESS ADMIN
 - User: KimLopez
 - Pass: &03li*TEk3KIl)wki9}
 ***
 
-##Descripción general
+## Descripción general
 Sitio web autoadministrable para la Editorial América en Movimiento, realizado en html5, css3, basandonos en el framework de bootstrap 3.3, con herramientas y plugins javascript y jQuery, montado en wordpress.
 
-##Requerimientos generales
+## Requerimientos generales
 La Editorial América en Movimiento fundada en noviembre del 2014, busca difundir el pensamiento crítico y el debate en torno a la historiografía, la política y las ciencias sociales. Cuenta hasta la fecha con 23 titulos publicados, esperando poder llegar a los 30 titulos durante el presente año. 
 
 En cuanto a los canales de venta cuenta con el servicio de "Alphilia distribuciones" quienes se encargan de instalar los titulos en distintas librerías físicas del país. A su vez, realizan ventas en ferias del libro que se llevan a cabo en distintos puntos de la regiones de Santiago y Valparaíso. Un tercer canal de venta es el que se realiza directamente en el marco del lanzamiento de sus nuevos libros y, finalmente, Un cuarto canal, aunque muy poco utilizado, es el canal de ventas online mediante su Fanpage en Facebook. 
@@ -38,10 +38,10 @@ Actualmente no cuentan con un sitio web. Su requerimiento es en primer lugar pod
 
 En cuanto a la posibilidad de implementar el sitio como ecommerce, se esperará para un segundo momento en donde se pueda escalar el sitio para dicha implementación, a la par que se realizan los tramites bancarios respectivos.
 
-##Solución
+## Solución
 La solución pasa en primer lugar por ordenar y establecer las jerarquías de los contenidos. Junto con ello, potenciar visualmente el trabajo realizado en las portadas de los libros con la utlización de imagenes que resalten el contenido, potenciando también la imagen gráfica y estética de la editorial. Juntar ambos factores anteriormente explicados para mostrar a los distintos usuarios (comprador, autor, institución) todo el trabajo que realiza la editorial y todos sus ámbitos de acción para potenciar la acción de cada uno de ellos, (conocer, comprar, publicar y contratar servicios). Se propone un trabajo modular de horizontes de secciones para que las secciones clave puedan replicarse en todo el sitio como includes en php. El resultado es un sitio responsive, con sistema de grillas bootstrap y autoadministrable en wordpress.
 
-###Arquitectura de la información
+### Arquitectura de la información
 - Potencial ecommerce web page Responsive
 - Secciones:
 	- Nosotros: Historia, Equipo, Libros en movimiento (Libros que han ganado fondos concursables), Eventos, Newsletter
@@ -60,7 +60,7 @@ La solución pasa en primer lugar por ordenar y establecer las jerarquías de lo
 	- Newsletter
 	- Footer, con links a rrss
 
-###Requerimientos técnicos:
+### Requerimientos técnicos:
 - Html5
 - CSS3
 - Bootstrap 3.3
